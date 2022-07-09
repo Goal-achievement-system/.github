@@ -75,13 +75,13 @@
 <table align="center">
   <tr>
     <td width="230px">
-        <img src="./public/image/readme/main.gif" style="width: 100%; height: auto;" alt="통계 기능"/>
+        <img src="public/image/readme/main.gif" style="width: 100%; height: auto;" alt="통계 기능"/>
     </td>
     <td width="230px">
-        <img src="./public/image/readme/goalRegist.gif" style="width: 100%; height: auto;" alt=""/>
+        <img src="public/image/readme/goalRegist.gif" style="width: 100%; height: auto;" alt=""/>
     </td>
     <td width="230px">
-        <img src="./public/image/readme/certRegist.gif" style="width: 100%; height: auto;" alt=""/>
+        <img src="public/image/readme/certRegist.gif" style="width: 100%; height: auto;" alt=""/>
     </td>
   </tr>
   <tr>
@@ -97,10 +97,10 @@
   </tr>
   <tr>
     <td width="230px">
-        <img src="./public/image/readme/certDetail.gif" style="width: 100%; height: auto;" alt=""/>
+        <img src="public/image/readme/certDetail.gif" style="width: 100%; height: auto;" alt=""/>
     </td>
     <td width="230px">
-        <img src="./public/image/readme/chargeMoney.gif" style="width: 100%; height: auto;" alt=""/>
+        <img src="public/image/readme/chargeMoney.gif" style="width: 100%; height: auto;" alt=""/>
     </td>
     <td width="230px">
     </td>
